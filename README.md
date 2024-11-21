@@ -1,1 +1,1 @@
-Karelia AMK Iot programming
+Karelia IoT Programming course demos
